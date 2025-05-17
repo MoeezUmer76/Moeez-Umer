@@ -1,2 +1,6 @@
 # Moeez-Umer
-My first GitHub repository where I’m learning how to use version control and share my code.
+
+Hi, I'm Moeez 👋  
+This is my first GitHub repository. I'm exploring Git, GitHub, and learning to manage code professionally!
+
+🚀 Stay tuned for my upcoming projects.
